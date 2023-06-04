@@ -1,0 +1,5 @@
+nam1 = input()
+liste = list(nam1)
+print(nam1, liste)
+liste.reverse()
+print(*liste)

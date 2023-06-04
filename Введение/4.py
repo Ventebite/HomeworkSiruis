@@ -1,0 +1,10 @@
+liste = []
+a = int(input())
+b = int(input())
+c = int(input())
+liste.append(a)
+liste.append(b)
+liste.append(c)
+print(sum(liste))
+print(max(liste))
+print(min(liste))
